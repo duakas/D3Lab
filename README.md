@@ -10,7 +10,7 @@ Download	the	data	from https://s3.amazonaws.com/yubowenok/car.csv
 – Filtering	 on	MPG	is	supported.
 – Hovered	car	name	is	shown	as	the	h4	header.
 
-
+![Alt text](https://dl.dropboxusercontent.com/u/98842501/D3ScreenShot.JPG "Graph ScreenShot")
 
 – Detailed	Requirements
 
