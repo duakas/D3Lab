@@ -33,7 +33,7 @@ box.
 • D3	rendering	 must	use	the	enter/exit/update	data	mapping.	You	shall	not	clear	the	
 entire	svg every	time	before	rendering.
 
-• When	the	mouse	hovers	a	scatterplot	point,	 the	<h4>	header	is	updated	to	show	
+• When	the	mouse	hovers	a	scatterplot	point,	 the	"h 4"	header	is	updated	to	show	
 the	hovered	car	name.
 
 – You	do	not	need	to	worry	about	point	overlapping	 (some	points	cannot	be	hovered)
