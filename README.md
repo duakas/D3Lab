@@ -3,11 +3,17 @@ BigData  D3 Lab Assignment
 
 Download	the	data	from https://s3.amazonaws.com/yubowenok/car.csv   
 • Save	the	data	at	the	root	of	your	repo. 
+
 • The	data	contains	392	cars	with	their	info	on	9	dimensions.
+
 • Do	not	commit	the	data	to	GitHub!
+
 • Render	an	interactive	scatterplot	of	the	data:
+
 • Dimensions	 for	x-axis	and	y-axis	can	be	selected.
+
 • Filtering	 on	MPG	is	supported.
+
 • Hovered	car	name	is	shown	as	the	h4	header.
 
 ![Alt text](https://dl.dropboxusercontent.com/u/98842501/D3ScreenShot.JPG "Graph ScreenShot")
