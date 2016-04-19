@@ -23,14 +23,17 @@ hard	code	the	data.
 • Complete	the	dropdown	 lists	in	the	UI	div	for	selecting	the	data	dimensions	 to	be	
 plotted	as	x-axis	and	y-axis.	
 
-• Note	that	you	do	not	need	 to	include	 the	categorical	 dimensions	‘name’	and	‘origin’
+• Note	that	you	do	not	need	 to	include	 the	categorical	 dimensions	‘name’	and	‘origin’.
+
 • You	shall	 not	hard	code	the	dimensions.
 
 • After	the	“Query	MPG”	button	is	pressed,	the	visualization	is	updated	to	render	
 only	those	 cars	with	MPG	in	the	range	defined	 by	the	mpg-min,	mpg-max	input	
 box.
+
 • D3	rendering	 must	use	the	enter/exit/update	data	mapping.	You	shall	not	clear	the	
 entire	svg every	time	before	rendering.
+
 • When	the	mouse	hovers	a	scatterplot	point,	 the	"h 4"	header	is	updated	to	show	
 the	hovered	car	name.
 
